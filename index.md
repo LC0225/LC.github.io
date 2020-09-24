@@ -87,7 +87,6 @@
             <td rowspan="1">2020年</td>	
 			<td colspan="6">校级优秀团员</td>	
 		</tr>
-        
 		<tr height="50" style="text-align: center;">
         <td rowspan="1">2019年</td>	
 			<td colspan="6">校级青马优秀班干部，校级青马成果展示二等奖，校级杰出志愿者，市级暑期社会实践优秀志愿者，获得软件著作权</td>	
